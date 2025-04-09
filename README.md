@@ -48,9 +48,9 @@ DevElevate/
 3. Customize as needed.
 
 ## Contact
-Email: DevElevate@tech.com  
-Website: [DevElevate](https://DevElevate.com.com)  
-Twitter: [@yourhandle](https://twitter.com/yourhandle)
+Email: dennisdenx20@gmail.com  
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
